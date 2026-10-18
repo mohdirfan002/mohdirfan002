@@ -4,6 +4,8 @@
 Aspiring **SOC Analyst / VAPT** professional focused on threat detection,
 incident response, and web application security.
 
+📍 Based in the UAE · Open to SOC Analyst, VAPT, and junior cybersecurity roles
+
 ## What I'm working on
 Building a hands-on cybersecurity portfolio, 5 projects in 9 weeks:
 - 🔍 Security monitoring lab (Wazuh + Sysmon + MITRE ATT&CK detections)
